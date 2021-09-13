@@ -9,4 +9,4 @@
 
 # Proje Gereksinimleri
 - MongoDb bulut(AWS) üzerinde oluşturulmuştur ve appsettings.json dosyasında bağlantı bilgileri yer almaktadır.
-- Projenin çalıştırılacağı bilgisayarda localhost:6379 ip ve port bilgileriyle Redis kurulu olmalıdır.(appsettings.json içinde değiştirilebilir)
+- Projenin çalıştırılacağı bilgisayarda localhost:6379 ip ve port bilgileriyle Redis kurulu olmalıdır.(appsettings.json içinde ip ve port bilgileri değiştirilebilir)
